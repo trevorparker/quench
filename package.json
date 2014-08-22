@@ -1,0 +1,26 @@
+{
+  "name": "quench",
+  "version": "0.0.0",
+  "description": "A backend-agnostic job queue.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trevorparker/quench.git"
+  },
+  "keywords": [
+    "job",
+    "task",
+    "queue"
+  ],
+  "author": "Trevor Parker <trevor@trevorparker.com>",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/trevorparker/quench/issues"
+  },
+  "homepage": "https://github.com/trevorparker/quench"
+}
+
