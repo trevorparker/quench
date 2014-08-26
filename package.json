@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/trevorparker/quench/issues"
   },
-  "homepage": "https://github.com/trevorparker/quench"
+  "homepage": "https://github.com/trevorparker/quench",
+  "dependencies": {
+    "node-uuid": "^1.4.1",
+    "redis": "^0.12.1"
+  }
 }
-
